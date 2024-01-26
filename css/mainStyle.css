@@ -8,9 +8,55 @@ footer {
 body {
     background-color: floralwhite;
 }
-#mainParagraph {
+.mainParagraph {
     position: relative;
-    top: 60px;
+    top: 70px;
     left: 70px;
     width: 400px;
+}
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+.imageCSS {
+    position: relative;
+    border: black 2px solid;
+}
+.resumeImage {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#meImage {
+    top: -200px;
+    left: 500px;
+    width: 400px;
+}
+#meQoute {
+    position: relative;
+    top: -190px;
+    left: 500px;
+    width: 300px;
+}
+#skiPhoto1 {
+    top: -618px;
+    left: 925px;
+    width: 250px;
+}
+#skiPhoto2 {
+     top: -618px;
+     left: 945px;
+     width: 250px;
+ }
+#tankPhoto {
+    top: -421px;
+    left: 415px;
+    width: 325px;
+}
+#imageInfo {
+    position: relative;
+    top: -575px;
+    left: 1260px;
+    width: 190px;
 }
